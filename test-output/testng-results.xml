@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="272590" started-at="2019-11-08T23:25:55 EST" finished-at="2019-11-08T23:30:27 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="272590" started-at="2019-11-08T23:25:55 EST" finished-at="2019-11-08T23:30:27 EST">
+      <class name="WayToAutomation.HandlingMultipleWindows">
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:WayToAutomation.HandlingMultipleWindows@7f13d6e]" name="openbrowser" is-config="true" duration-ms="202662" started-at="2019-11-08T23:25:55 EST" finished-at="2019-11-08T23:29:18 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="VerifyBuyNowTitle()[pri:0, instance:WayToAutomation.HandlingMultipleWindows@7f13d6e]" name="VerifyBuyNowTitle" duration-ms="60012" started-at="2019-11-08T23:29:18 EST" finished-at="2019-11-08T23:30:18 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyBuyNowTitle -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:WayToAutomation.HandlingMultipleWindows@7f13d6e]" name="closebrowser" is-config="true" duration-ms="9834" started-at="2019-11-08T23:30:18 EST" finished-at="2019-11-08T23:30:27 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- WayToAutomation.HandlingMultipleWindows -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
